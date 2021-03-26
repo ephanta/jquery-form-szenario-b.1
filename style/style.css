@@ -1,0 +1,33 @@
+body{
+    margin: 0 0 10% 10%;
+  }
+  
+  h1,
+  h2,
+  h3,
+  p,
+  label,
+  input,
+  textarea {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-top: 15px;
+  }
+  
+  label {
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  
+  select {
+    margin-right: 10px;
+  }
